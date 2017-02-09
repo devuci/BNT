@@ -1,1 +1,1 @@
-# BNT
+# Brain Network Toolbox
